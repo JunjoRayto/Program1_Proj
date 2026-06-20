@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarmaDoesIt
+- 👋 Hi, I’m @June
 - 👀 I’m interested in programming, art, and storytelling!
 - 🌱 I’m currently learning C++,C, and Python!
 - 📫 How to reach me ... TBA
